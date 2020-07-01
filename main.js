@@ -11,13 +11,34 @@ const doubleAll = function(nums){
 
 const yelledGreetings= function(hi){
   const greeting = '';
-  for (let i = 0; i < hi.push; i++ ){
-if(hi[i] === hi[i] + '!'){
-}else{
-  return greeting
+  for (let i = 0; i < hi.length; i++ )
+ if(hi[i] === hi[i] + '!'){
+ }else{
+return greeting
+ }
 }
-  
+
+const absoluteValues= function(){
+
 }
+
+
+const upperCaseFirstLetters =function(){
+
+}
+
+
+const changeToInitials = function(){
+
+}
+
+const doubleOdd = function(){
+
+}
+
+
+const add1ToLeft =function(){
+
 }
 
 
