@@ -1,7 +1,24 @@
 /******************
  * YOUR CODE HERE *
 ******************/
+const doubleAll = function(nums){
+  const results = [];
+  for (let i =0; i < nums.length; i++){
+    results.push(nums[i] * 2)
+  }
+  return results
+}
 
+const yelledGreetings= function(hi){
+  const greeting = '';
+  for (let i = 0; i < hi.push; i++ ){
+if(hi[i] === hi[i] + '!'){
+}else{
+  return greeting
+}
+  
+}
+}
 
 
 
